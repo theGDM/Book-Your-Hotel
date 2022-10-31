@@ -13,10 +13,10 @@
 
 ## Tech Stack
 
-**`Client-side Languages:`** HTML-5, CSS-3, React.js, JavaScript</br>
+**`Client-side:`** HTML-5, CSS-3, React.js, JavaScript</br>
 **`Backend Technology:`** JavaScript, Node.js</br>
-**`Server-side Language:`** Express.js</br>
-**`Database used:`** MongoDB</br>
+**`Server-side:`** Express.js</br>
+**`Database:`** MongoDB</br>
 **`Cloud Deployment Plateforms:`** GitHub</br>
 **`Operating System:`** Windows</br>
   

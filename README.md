@@ -6,7 +6,7 @@
 - User can choose any destination and duration for his/her stay. 
 - Also user has the ability to select any date-range, and other options like, number of adults, </br> number of children and 
   number of rooms for his/her stay.
-- User freindly UI.
+- User friendly UI.
 - Image carousel feature.
 - Responsive to various screen layouts such as mobile, laptop, tablet, PC.
 - Authorization and authentication features.

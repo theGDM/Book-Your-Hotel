@@ -1,5 +1,5 @@
 # Book Your Hotel
-Book Your Hotel is a full-stack website, that helps you to find and book hotels at any place in the world.
+`Book Your Hotel is a full-stack website that is inspired from booking.com, that helps you to find and book hotels at any place in the world.`
 
 ## Features
 - User can choose any destination, date-range, and other options like, number of adults, </br>
@@ -11,24 +11,18 @@ Book Your Hotel is a full-stack website, that helps you to find and book hotels 
 
 ## Tech Stack
 
-**Client-side Languages:** HTML-5, CSS-3, React.js, JavaScript
-
-**Backend Technology:** JavaScript, Node.js
-
-**Server-side Language:** Express.js
-
-**Database used:** MongoDB
-
-**Cloud Deployment Plateforms:** GitHub
-
-**Operating System:** Windows
+**`Client-side Languages:`** HTML-5, CSS-3, React.js, JavaScript</br>
+**`Backend Technology:`** JavaScript, Node.js</br>
+**`Server-side Language:`** Express.js</br>
+**`Database used:`** MongoDB</br>
+**`Cloud Deployment Plateforms:`** GitHub</br>
+**`Operating System:`** Windows</br>
   
 ## Website Demo
-## Home Page
+## `Home Page`
 ![Screenshot 2022-10-31 103027](https://user-images.githubusercontent.com/89511377/198939401-b9eda8a5-2dad-4da4-98cd-4b294a886ae6.jpg)
-![Screenshot 2022-10-31 105235](https://user-images.githubusercontent.com/89511377/198939416-f41b4531-8d2a-4804-9b6a-76ca99a08577.jpg)
-![Screenshot 2022-10-31 105303](https://user-images.githubusercontent.com/89511377/198939442-a26eaa00-a5d3-4834-a347-39672d21f107.jpg)
-
+![Screenshot 2022-10-31 111844](https://user-images.githubusercontent.com/89511377/198940363-bda7254a-c09d-405b-9480-389c996d40cd.jpg)
+![Screenshot 2022-10-31 111924](https://user-images.githubusercontent.com/89511377/198940383-c8a6e7f7-6922-4f01-9c4b-a3f116af48a7.jpg)
 
 # Hi, I'm theGDM! 👋
 ## 🚀 About Me

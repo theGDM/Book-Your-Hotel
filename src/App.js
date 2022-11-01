@@ -12,7 +12,6 @@ function App() {
         <Route path="/hotel/:id" element={<Hotel />} />
       </Routes>
     </BrowserRouter >
-
   );
 }
 

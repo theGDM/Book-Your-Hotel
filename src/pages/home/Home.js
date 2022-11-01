@@ -5,6 +5,7 @@ import Navbar from '../../components/navbar/Navbar';
 import PropertyList from '../../components/propertyList/PropertyList';
 import FeaturedProperties from '../../components/featuredProperties/FeaturedProperties';
 import MailList from '../../components/mailList/MailList';
+import Footer from '../../components/footer/Footer';
 import './home.css';
 
 function Home() {
@@ -19,6 +20,7 @@ function Home() {
                 <h1 className='homeTitle'>Homes guests love</h1>
                 <FeaturedProperties />
                 <MailList />
+                <Footer />
             </div>
         </div>
     )

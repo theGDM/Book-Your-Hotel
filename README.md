@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Book Your Hotel
+`Book Your Hotel is a full-stack website that is inspired from booking.com, that helps you to find and book hotels at any place in the world.
+ It is made using one of most popular front-end library i.e. React. `
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+- User can choose any destination and duration for his/her stay. 
+- Also user has the ability to select any date-range, and other options like, number of adults, </br> number of children and 
+  number of rooms for his/her stay.
+- User friendly UI.
+- Image carousel feature.
+- Responsive to various screen layouts such as mobile, laptop, tablet, PC.
+- Authorization and authentication features.
 
-## Available Scripts
+## Tech Stack
 
-In the project directory, you can run:
+**`Client-side:`** HTML-5, CSS-3, React.js, JavaScript</br>
+**`Backend Technology:`** JavaScript, Node.js</br>
+**`Server-side:`** Express.js</br>
+**`Database:`** MongoDB</br>
+**`Cloud Deployment Plateforms:`** GitHub</br>
+**`Operating System:`** Windows</br>
+  
+## Website Demo
+## `Home Page`
+![Screenshot 2022-10-31 103027](https://user-images.githubusercontent.com/89511377/198939401-b9eda8a5-2dad-4da4-98cd-4b294a886ae6.jpg)
+![Screenshot 2022-10-31 111844](https://user-images.githubusercontent.com/89511377/198940363-bda7254a-c09d-405b-9480-389c996d40cd.jpg)
+![Screenshot 2022-10-31 111924](https://user-images.githubusercontent.com/89511377/198940383-c8a6e7f7-6922-4f01-9c4b-a3f116af48a7.jpg)
 
-### `npm start`
+# Hi, I'm theGDM! 👋
+## 🚀 About Me
+DSA entusiast and a full stack web developer, with impressive problem solving skills,
+and the ability to perform well in a team, always curious to learn something new and challenging.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠 Skills
+HTML, CSS, Javasript, Reactjs, Node.js ,Express.js, MongoDB, SQL, Firebase, Google Cloud, C/C++, Oops and Data structure.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔗 Connect With ME!
+[![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=)](https://github.com/theGDM)
+[![GMAIL](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyandeepmehra370@gmail.com)

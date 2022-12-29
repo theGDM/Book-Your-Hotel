@@ -1,14 +1,13 @@
 # Book Your Hotel
-`Book Your Hotel is a full-stack website that is inspired from booking.com, that helps you to find and book hotels at any place in the world.
- It is made using one of most popular front-end library i.e. React. `
+`Book Your Hotel is a full-stack website that is inspired by booking.com, which helps you to find and book hotels at any place in the world. It is made using one of the most popular front-end libraries i.e. React.js. `
 
 ## Features
-- User can choose any destination and duration for his/her stay. 
-- Also user has the ability to select any date-range, and other options like, number of adults, </br> number of children and 
-  number of rooms for his/her stay.
-- User friendly UI.
+- User can choose any destination and duration for his/her stay.
+- Also user has the ability to select any date range, and other options like the number of adults, the number of children, 
+  and the number of rooms for his/her stay.
+- User-friendly UI.
 - Image carousel feature.
-- Responsive to various screen layouts such as mobile, laptop, tablet, PC.
+- Responsive to various screen layouts such as mobile, laptop, tablet, and PC.
 - Authorization and authentication features.
 
 ## Tech Stack
